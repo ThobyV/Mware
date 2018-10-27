@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="100px"
+   height="100px"
+   viewBox="0 0 186.22633 153.06923"
+   version="1.1"
+   id="svg1033">
+  <defs
+     id="defs1027" />
+  <metadata
+     id="metadata1030">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <circle
+     r="73.327377"
+     cy="73.327377"
+     cx="95.932655"
+     id="path815"
+     style="opacity:1;fill:#b9f4b8;fill-opacity:1;stroke:none;stroke-width:1.56633329;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+  <path
+     d="m 121.11484,91.338749 -77.484017,6.1631 33.404598,-70.184667 z"
+     id="path817"
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#1bb978;stroke-width:1.86226332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:5.5867899, 5.5867899;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+  <rect
+     transform="rotate(-24.994074)"
+     ry="0"
+     y="83.395378"
+     x="71.179756"
+     height="50.563618"
+     width="50.563618"
+     id="rect819"
+     style="opacity:1;fill:#6ed69a;fill-opacity:1;stroke:none;stroke-width:1.06905925;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+  <circle
+     style="opacity:1;fill:#1bb978;fill-opacity:1;stroke:none;stroke-width:0.47344548;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+     id="circle942"
+     cx="98.477661"
+     cy="104.07581"
+     r="22.164194" />
+</svg>

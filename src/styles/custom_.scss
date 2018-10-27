@@ -1,0 +1,125 @@
+
+.btn-shadow {
+	transition: all 0.3s ease 0s;
+	box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+.btn-shadow:hover {
+	box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+	transform: translateY(-7px);
+}
+
+.img-has-shadow {
+	-webkit-box-shadow: 1px 15px 0px rgba(0, 0, 0, 1);
+	-moz-box-shadow: 1px 15px 0px  rgba(0, 0, 0,1);
+	box-shadow: 1px 15px 0px rgba(0, 0, 0, 1);
+}
+
+
+
+
+.zax {
+	overflow: hidden;
+	-webkit-transform-origin: 0;
+	transform-origin: 0;
+	background-image: url('/res/svg/case-study-svg.svg');
+	background-size: cover;
+	bottom: 20%;
+}
+
+
+
+.has-padding {
+padding-left: 1rem;
+padding-right: 1rem;
+}
+
+.is-p {
+padding-top: 1rem;
+padding-bottom: 1rem;  
+}
+
+.has-shadow {
+		box-shadow: 0 1.5rem 1.5rem -1.25rem rgba(10,10,10,.05);	
+}
+
+.has-radius {
+	border-radius: 6px;	
+}
+
+
+.icon-container {
+	margin-bottom: 20px;
+}
+.is-float {
+	position: relative;
+	margin: 0 auto;
+	margin-top: -10%;
+}
+
+.svg-background {
+	
+	overflow: hidden;
+	-webkit-transform-origin: 0;
+	transform-origin: 0;
+	background-image: url('/res/svg/header-opt-svg.svg');
+	background-size: cover;
+	
+  }
+
+
+.svgy {
+	
+	background-color: #5b23fc;
+	background-image: url('/res/svg/header-1-svg.svg');
+background-size: cover;
+}
+
+
+.is-case-svg {
+	
+	background-color: #5b23fc;
+	background-image: url('/res/svg/case-study-svg.svg');
+background-size: cover;
+}
+
+#stripes {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	-webkit-transform: skewY(-12deg);
+	transform: skewY(-12deg);
+	-webkit-transform-origin: 0;
+	transform-origin: 0;
+	background: linear-gradient(150deg,#53f 15%,#05d5ff 70%,#a6ffcb 94%);
+}
+
+#stripes span {
+	height: 30px;
+}
+
+#stripes, #stripes span {
+	position: absolute;
+}
+
+#stripesx {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	background-color: #5b23fc;
+	background-image: url('/res/svg/header-svg.svg');
+background-attachment: fixed;
+background-size: cover;
+
+	}
+
+#stripesx span {
+	height: 30px;
+}
+
+#stripesx, #stripesx span {
+	position: absolute;
+}
+
+

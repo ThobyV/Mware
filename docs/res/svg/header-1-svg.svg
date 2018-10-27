@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="423.33694mm"
+   height="211.6615mm"
+   viewBox="0 0 423.33694 211.66149"
+   version="1.1"
+   id="svg1057">
+  <defs
+     id="defs1051">
+    <linearGradient
+       id="linearGradient2275">
+      <stop
+         style="stop-color:#6d1ef6;stop-opacity:1;"
+         offset="0"
+         id="stop2271" />
+      <stop
+         style="stop-color:#6d1ef6;stop-opacity:0"
+         offset="1"
+         id="stop2273" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2267">
+      <stop
+         style="stop-color:#bd39e4;stop-opacity:1;"
+         offset="0"
+         id="stop2263" />
+      <stop
+         style="stop-color:#bd39e4;stop-opacity:0;"
+         offset="1"
+         id="stop2265" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2259">
+      <stop
+         style="stop-color:#3deceb;stop-opacity:1;"
+         offset="0"
+         id="stop2255" />
+      <stop
+         style="stop-color:#3deceb;stop-opacity:0;"
+         offset="1"
+         id="stop2257" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(221.82069,-9.046598)"
+       xlink:href="#linearGradient2259"
+       id="linearGradient2261"
+       x1="89.316307"
+       y1="45.912437"
+       x2="214.77905"
+       y2="256.51187"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(221.82069,-9.046598)"
+       xlink:href="#linearGradient2267"
+       id="linearGradient2269"
+       x1="-120.97597"
+       y1="114.46512"
+       x2="129.57713"
+       y2="114.46512"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(221.82069,-9.046598)"
+       xlink:href="#linearGradient2275"
+       id="linearGradient2277"
+       x1="-187.37239"
+       y1="62.871105"
+       x2="82.294624"
+       y2="130.93933"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata1054">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     ry="0"
+     y="0.14615865"
+     x="0.499935"
+     height="210.49957"
+     width="422.66696"
+     id="rect840-1"
+     style="opacity:1;fill:#3c05e4;fill-opacity:1;stroke:#6230f2;stroke-width:0.25530261;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.02121049, 0.51060524;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+  <path
+     id="rect846-7"
+     d="M 283.88026,0.1645479 312.35523,0.0929047 423.24042,152.92046 423.1176,185.80685 Z"
+     style="opacity:1;fill:url(#linearGradient2261);fill-opacity:1;stroke:none;stroke-width:0.18939136;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.7575654, 0.37878270000000003;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+  <path
+     style="opacity:1;fill:url(#linearGradient2269);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+     d="M 100.93941,0.2119802 175.56719,0.2351991 351.30314,210.62506 274.59151,210.51538 Z"
+     id="path849-2" />
+  <path
+     id="path851-7"
+     d="M 0.63104,73.609419 0.61024,16.802881 184.18898,210.65589 130.80433,210.63309 Z"
+     style="opacity:1;fill:url(#linearGradient2277);fill-opacity:1;stroke:#6230f2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+</svg>
