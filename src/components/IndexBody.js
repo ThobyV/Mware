@@ -210,7 +210,7 @@ and ability to take responsibily of technical aspects of your products
 </div></div>
 
 <div class="column is-5">
-<p class="has-text-left has-text-black">A brief introduction of
+<p class="has-text-left has-text-black is-p">A brief introduction of
 the popular designer clothing e-commerce store we designed and shipped to production...
 </p> 
 <a class="button is-medium is-primary">read more...</a>
@@ -224,12 +224,10 @@ the popular designer clothing e-commerce store we designed and shipped to produc
 
 <section class="hero is-small has-background-warning">
 <div class="hero-body">
-<div class="container">
+<div class="container is-centered">
 
-<div class="is-centered">
 <h4 class="title is-4 is-p has-text-black">Ready to Get Started?</h4> 
 <a class="button is-medium is-black is-outlined">Send Us A Message</a>
-</div>
 
 </div>
 </div>
