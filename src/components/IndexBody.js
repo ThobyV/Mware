@@ -32,8 +32,8 @@ we're a team that's focused at creating that reality.
  </h1>
 
 <br/>
-<a class="button is-medium is-warning"><p class="">GET STARTED</p> 
-<img src="/Mware/res/svg/arrow-svg.svg"/>
+<a class="button is-medium is-warning">GET STARTED 
+<span class="icon is-small">><img src="/Mware/res/svg/arrow-svg.svg"/></span>
 
  </a>
 
