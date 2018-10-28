@@ -237,8 +237,8 @@ the popular designer clothing e-commerce store we designed and shipped to produc
 <footer class="footer has-background-primary">
   <div class="container">
     <div class="content has-text-centered">
-      <p>
-        <strong>Macroware</strong> by <a href="https://jgthms.com">Jeremy Thomas</a>. The source code is licensed
+      <p xlass="has-text-white">
+        <strong>Macroware</strong> by <a href="https://jgthms.com">Macroware Design</a>. The source code is licensed
         <a href="http://opensource.org/licenses/mit-license.php">MIT</a>. The website content
         is licensed <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY NC SA 4.0</a>.
       </p>
