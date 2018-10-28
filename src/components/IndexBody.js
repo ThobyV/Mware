@@ -118,7 +118,7 @@ and ability to take responsibily of technical aspects of your products
 
 <div class="column is-5 is-offset-1">
 <div class="icon-container has-text-centered">
-<img src="/res/svg/deploy-svg.svg"/>
+<img src="/Mware/res/svg/deploy-svg.svg"/>
 </div>
 <p class="subtitle has-text-centered"><b>Deploy</b> </p>
 
@@ -226,8 +226,8 @@ the popular designer clothing e-commerce store we designed and shipped to produc
 <div class="hero-body">
 <div class="container">
 
-<h4 class="title is-4 has-text-centered is-p has-text-black is-centered">Ready to Get Started?</h4> 
-<a class="button is-medium is-black is-outlined has-text-centered">Send Us A Message</a>
+<h4 class="title is-4 has-text-centered is-p has-text-black">Ready to Get Started?</h4> 
+<a class="button is-medium is-black is-outlined is-centered">Send Us A Message</a>
 
 
 </div>
