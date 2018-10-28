@@ -2,6 +2,7 @@ import { h } from 'hyperapp'
 
 import { Link, Route, location } from "@hyperapp/router"
 
+
 export const NavBar =  () => (
     
 <nav class="navbar is-transparent has-padding" role="navigation" aria-label="main navigation">
@@ -11,7 +12,7 @@ export const NavBar =  () => (
     <a class="navbar-item" href=""> 
 
     <img 
-    src="/Mware/docs/res/svg/mware-logo.svg" 
+    src="/Mware/res/svg/mware-logo.svg" 
     alt="macroware_logo"
     height="16"
     width="171"
