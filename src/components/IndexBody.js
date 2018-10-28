@@ -32,8 +32,8 @@ we're a team that's focused at creating that reality.
  </h1>
 
 <br/>
-<a class="button is-medium is-warning">GET STARTED 
-<span class="icon is-small"><img src="/Mware/res/svg/arrow-svg.svg"/></span>
+<a class="button is-medium is-warning">GET STARTED  
+<span class="icon is-small"> <img src="/Mware/res/svg/arrow-svg.svg"/></span>
 
  </a>
 
@@ -224,7 +224,7 @@ the popular designer clothing e-commerce store we designed and shipped to produc
 
 <section class="hero is-small has-background-warning">
 <div class="hero-body">
-<div class="container is-centered">
+<div class="container has-text-centered">
 
 <h4 class="title is-4 is-p has-text-black">Ready to Get Started?</h4> 
 <a class="button is-medium is-black is-outlined">Send Us A Message</a>
