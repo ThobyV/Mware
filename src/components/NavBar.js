@@ -11,7 +11,7 @@ export const NavBar =  () => (
     <a class="navbar-item" href=""> 
 
     <img 
-    src="/res/svg/mware-logo.svg" 
+    src="/docs/res/svg/mware-logo.svg" 
     alt="macroware_logo"
     height="16"
     width="171"
