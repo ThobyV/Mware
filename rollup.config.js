@@ -43,6 +43,7 @@ export default {
       exclude: 'node_modules/**',
     }),
     prod && uglify(),
+    dev && uglify(),
     dev && livereload('docs'),
     dev &&
     serve({

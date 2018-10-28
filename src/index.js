@@ -10,6 +10,6 @@ import { view }   from './routes'
 import  './styles/app.scss'
 
 
-const main = app(state, actions, view, document.querySelector('.hyperapp-root'))
+const main = app(state, actions, view, document.body);
 
 const unsubscribe = location.subscribe(main.location)
