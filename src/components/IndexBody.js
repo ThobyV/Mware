@@ -32,7 +32,10 @@ we're a team that's focused at creating that reality.
  </h1>
 
 <br/>
-<a class="button is-medium is-warning">GET STARTED </a>
+<a class="button is-medium is-warning is-5">GET STARTED 
+<img src="/Mware/res/svg/arrow-svg.svg"/>
+
+ </a>
 
 
  </div>
@@ -47,7 +50,7 @@ we're a team that's focused at creating that reality.
 <div class="hero-body">
 <div class="container">
 <div class="icon-container has-text-centered">
-<img src="/res/svg/question-svg.svg"/>
+<img src="/Mware/res/svg/question-svg.svg"/>
 </div>
 <br/>
 <div class="columns">
@@ -64,7 +67,7 @@ and ability to take responsibily of technical aspects of your products
 
 <div class="column is-6">
 <div class="icon-container has-text-centered">
-<img src="/res/svg/illustration-svg.svg" /> 
+<img src="/Mware/res/svg/illustration-svg.svg" /> 
 </div>
 <br/> 
 </div>
@@ -82,7 +85,7 @@ and ability to take responsibily of technical aspects of your products
 
 
 <div class="icon-container has-text-centered">
-<img src="/res/svg/design-svg.svg"/>
+<img src="/Mware/res/svg/design-svg.svg"/>
 </div>
 
 <p class="subtitle has-text-centered"><b>Design</b> </p>
@@ -97,7 +100,7 @@ and ability to take responsibily of technical aspects of your products
 
 <div class="column is-5">
 <div class="icon-container has-text-centered">
-<img src="/res/svg/development-svg.svg" />
+<img src="/Mware/res/svg/development-svg.svg" />
 </div>
 <p class="subtitle has-text-centered"><b>Development</b> </p>
 
@@ -127,7 +130,7 @@ and ability to take responsibily of technical aspects of your products
 
 <div class="column is-5 is-offset-1">
 <div class="icon-container has-text-centered">
-<img src="/res/svg/support-svg.svg" /> 
+<img src="/Mware/res/svg/support-svg.svg" /> 
 </div>
 <p class="subtitle has-text-centered"><b>Support</b> </p>
 
@@ -147,42 +150,42 @@ and ability to take responsibily of technical aspects of your products
 
 <div class="column">
 <div class="icon-container">
-<img src="/res/svg/node-svg.svg" /> 
+<img src="/Mware/res/svg/node-svg.svg" /> 
 </div>
 </div>
 
 
 <div class="column">
 <div class="icon-container">
-<img src="/res/svg/php-svg.svg" /> 
+<img src="/Mware/res/svg/php-svg.svg" /> 
 </div>
 </div>
 
 
 <div class="column">
 <div class="icon-container">
-<img src="/res/svg/react-svg.svg" /> 
+<img src="/Mware/res/svg/react-svg.svg" /> 
 </div>
 </div>
 
 
 <div class="column">
 <div class="icon-container">
-<img src="/res/svg/kotlin-svg.svg" /> 
+<img src="/Mware/res/svg/kotlin-svg.svg" /> 
 </div>
 </div>
 
 
 <div class="column">
 <div class="icon-container">
-<img src="/res/svg/redis-svg.svg" /> 
+<img src="/Mware/res/svg/redis-svg.svg" /> 
 </div>
 </div>
 
 
 <div class="column">
 <div class="icon-container">
-<img src="/res/svg/block-chain-svg.svg" /> 
+<img src="/Mware/res/svg/block-chain-svg.svg" /> 
 </div>
 </div>
 
@@ -203,7 +206,7 @@ and ability to take responsibily of technical aspects of your products
 <div class="column is-5 is-offset-1">
 <h4 class="title is-4 has-text-left is-p has-text-black">Case Study: Pops Wears</h4> 
 <div class="zax">
-<img src="/res/svg/case-study-1.jpg" /> 
+<img src="/Mware/res/svg/case-study-1.jpg" /> 
 </div></div>
 
 <div class="column is-5">
@@ -223,7 +226,7 @@ the popular designer clothing e-commerce store we designed and shipped to produc
 <div class="hero-body">
 <div class="container">
 
-<h4 class="title is-4 has-text-left is-p has-text-black is-centered">Ready to Get Started?</h4> 
+<h4 class="title is-4 has-text-centered is-p has-text-black is-centered">Ready to Get Started?</h4> 
 <a class="button is-medium is-black is-outlined has-text-centered">Send Us A Message</a>
 
 
