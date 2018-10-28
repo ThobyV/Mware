@@ -11,7 +11,7 @@ export const view = ( state, actions ) =>
 <div>
 
 <Switch>    
-    <Route path="/" render={ About } />       
+    <Route path="/Mware/" render={ About } />       
   </Switch>
 
 </div>
