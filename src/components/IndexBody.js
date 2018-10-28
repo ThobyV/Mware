@@ -32,7 +32,7 @@ we're a team that's focused at creating that reality.
  </h1>
 
 <br/>
-<a class="button is-medium is-warning is-5">GET STARTED 
+<a class="button is-medium is-warning"><p class="">GET STARTED</p> 
 <img src="/Mware/res/svg/arrow-svg.svg"/>
 
  </a>
